@@ -10,3 +10,5 @@ The data set used in this analysis provides daily transaction information for a 
 
 Data Analysis Approach: Pandas was used for data cleaning and initial EDA. The updated data set was exported to Tableau and further explored using calculated fields to compute additional fields at the data source level (e.g., LOD expressions to generate average daily sales, filter items with a greater than 40% sales drop). Bubble charts, bar graphs, and line graphs were generated to highlight top selling bakery items, busiest hour/weekday/month in terms of sales, and items with the largest sales drop between 2021 and 2022.
 
+The Tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/zach.tanner/viz/FrenchBakerySalesData/Dashboard1)
+
